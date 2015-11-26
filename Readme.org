@@ -1,13 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:44.042357
-#+TITLE: 華嚴心要法門註
-#+PROPERTY: CBETA_ID X58n1005
-#+PROPERTY: ID KR6e0130
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1005
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴心要法門註 / master
+#+DATE: 2015-11-26 14:20:24.763688
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0130_X_000-0426a>
-[[file:KR6e0130_001.txt::001-0426a4][答順宗心要法門]]
-[[file:KR6e0130_001.txt::0426c6][心要法門頌¶]]
+* 目次
+* [[file:KR6e0130_001.txt::001-0426a4][答順宗心要法門]]
+* [[file:KR6e0130_001.txt::0426c6][心要法門頌¶]]
+* 卷
+** [[file:KR6e0130_001.txt][華嚴心要法門註 1]]
