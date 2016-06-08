@@ -1,21 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:44.061502
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:50
 #+TITLE: 華嚴心要法門註
 #+PROPERTY: CBETA_ID X58n1005
 #+PROPERTY: ID KR6e0130
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1005
 #+PROPERTY: VOL 58
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0130_X_001-0426a> 
 #+PROPERTY: JUAN 1
-No.1005¶
-
- 答順宗心要法門¶
+No. 1005¶
+答順宗心要法門¶
 唐清涼國師　澄觀　撰¶
 圭峰沙門　宗密　注¶
 
-答順宗心要法門
 至道本乎其心(諸佛眾生迷悟本也)心法本乎無住。(萬法之宗。本乎無住。¶
 即心體也。淨名經云。依無住本。立一切法)無住心體。靈知不昧(瑩淨之理)。¶
 
@@ -94,7 +92,7 @@ No.1005¶
 其猶透水月華。虗而可見。(喻也)無心鏡像。照而常空矣¶
 (虛心之鑑)。¶
 
-心要法門頌¶
+* 心要法門頌¶
 
 #+BEGIN_VERSE
 「　欲達心源淨(所迷之理)
@@ -106,8 +104,8 @@ No.1005¶
 　真金開伏藏(情忘理現)
 　赫日出瞑矇(智起惑忘)¶
 　試將心比佛(性無異故)
-　與佛始終同(真妄無別)
+　與佛始終同(真妄無別)」
 #+END_VERSE
-」¶
+¶
 ¶
 答順宗心要法門(終)
